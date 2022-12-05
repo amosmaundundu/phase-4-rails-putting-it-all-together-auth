@@ -1,0 +1,15 @@
+current directory: /home/amos/rails/phase-4-rails-putting-it-all-together-auth/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221201-17902-ph0gr3.rb extconf.rb
+creating Makefile
+
+current directory: /home/amos/rails/phase-4-rails-putting-it-all-together-auth/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/amos/rails/phase-4-rails-putting-it-all-together-auth/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/amos/rails/phase-4-rails-putting-it-all-together-auth/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20221201-17902-4rxlno
